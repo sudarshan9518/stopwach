@@ -1,5 +1,5 @@
-# SCT_Trackcode_Task_2
-⏱️ Stopwatch Project
+# ⏱️ Stopwatch Project
+
 A simple stopwatch application built using HTML, CSS, and JavaScript. This project helped me gain experience in front-end development and understand the Date.now() method in JavaScript.
 
 🚀 Features
